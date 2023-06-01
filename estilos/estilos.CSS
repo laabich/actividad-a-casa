@@ -1,0 +1,63 @@
+body{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-image: url(fondo.png);
+padding: 20px;
+}
+
+h1{
+color:#f44336; /* color de letra */
+text-align: center;
+padding: 4 px;
+color:#f44336;
+padding: 4px;color:#f44336; /* relleno */
+background-color:white;
+padding: 5px;
+
+
+}
+ul>nav{
+list-style: none;
+text-align: center;
+}
+
+li{
+display:inline-block;
+margin: 15px;
+padding: 10px;
+background-color: #ff9800;
+border: solid 2px #f44336;
+}
+
+article{
+text-align: right;
+}
+
+.fila-impar h2{
+background-color:#ffc107;
+padding: 5px;
+color: white
+}
+
+p{ 
+font-size: 20px;
+font-weight: bold;
+}
+
+ul>aside{
+list-style: square;
+font-style: italic;
+}
+
+#primer-anuncio{
+font-size: 24px;
+color: blue 
+}
+
+#segundo-anuncio{
+
+
+}
+#tercer-anuncio{
+
+    
+}
